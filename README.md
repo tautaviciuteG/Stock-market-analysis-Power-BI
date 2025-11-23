@@ -42,4 +42,5 @@ These questions form the logical backbone of the entire dashboard.
 📚 Data Sources:
 1) Global Stock Market Dataset (Link: https://www.kaggle.com/datasets/mehdiaminazadeh/global-stock-market-dataset)
 2) https://www.magicformulainvesting.com/
+3) https://finance.yahoo.com/
 
